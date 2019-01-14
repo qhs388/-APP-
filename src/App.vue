@@ -1,8 +1,7 @@
 <template>
   <div id="app">
-    <span class="text">ABDC</span>
     <router-view/>
-  </div>
+  </div>  
 </template>
 
 <script>
@@ -20,8 +19,9 @@ export default {
 <style scoped lang="scss">
 
   @import "./assets/styles/global.scss";
-  .text{
-    font-size:px2rem(20);
-    color: orange;
+  #app{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
   }
 </style>
