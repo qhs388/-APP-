@@ -6,10 +6,10 @@
       <!-- <div class="banner-wrapper"> -->
         <swiper :options="swiperOption" class="banner-wrapper">
           <swiper-slide>
-            <img class="banner-img"  src="http://img2.imgtn.bdimg.com/it/u=3697576038,3770315076&fm=26&gp=0.jpg" alt="">
+            <img class="banner-img"  src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1547575663913&di=002c582995e654172e0a261d051a6ca4&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201707%2F24%2F20170724102556_mRZds.jpeg" alt="">
           </swiper-slide>
           <swiper-slide>  
-            <img class="banner-img"  src='http://img4.imgtn.bdimg.com/it/u=1014228455,2002290695&fm=26&gp=0.jpg' alt="">
+            <img class="banner-img"  src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1547575724510&di=98d69de12f4e4ffb84ee93e214cd30b9&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201608%2F26%2F20160826090516_K3Xtu.jpeg' alt="">
           </swiper-slide>
           <div class="swiper-pagination"  slot="pagination"></div>
         </swiper>
