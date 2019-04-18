@@ -24,3 +24,5 @@ npm run test
 ```
 npm run lint
 ```
+###基于vue2.0开发的读书的webapp
+利用了vue2.0+vuex+vue-router
